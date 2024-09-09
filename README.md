@@ -58,3 +58,8 @@ To successfully obtain the outcomes of this project, I have perform the followin
 
 By the end of this project, I have found out that:
 
+1. The total sales for the company is $12.64M.
+
+2. By average Lesotho has the highest sales.
+
+3. In 2016, the profits gained by all segments is $220,890, with the conusumber sector gained the most profit over all other segments.
